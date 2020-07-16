@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+<meta charset="UTF-8">
+<title>Question 1</title>
+</head>
+
+<body>
+<h3>To print the Given number</h3>
+<script src="q1.js">
+</sricpt>
+
+
+<body>
+
+
+<html>
+
+
+
+
+
+
+javasrcipt  program
+
+
+
+let num = prompt("Enter any number :")
+
+
+
+console.log(num)
